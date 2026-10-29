@@ -1,0 +1,21 @@
+{
+  "name": "Mechanic AI - Smart Vehicle Diagnostics",
+  "short_name": "Mechanic AI",
+  "description": "Smart Vehicle Diagnostics, Made Simple. AI-powered OBD-II fault code diagnostics, repair guides, and automotive technical library.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070D1E",
+  "theme_color": "#0072FF",
+  "icons": [
+    {
+      "src": "/app/src/main/res/drawable/mechanic_ai_icon_1793268462770.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["auto", "utilities", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}

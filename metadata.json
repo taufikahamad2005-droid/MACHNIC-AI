@@ -1,0 +1,6 @@
+{
+  "name": "Mechanic AI",
+  "description": "Smart Vehicle Diagnostics, Made Simple. AI-powered OBD-II fault code diagnostics, repair guides, and automotive technical library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
